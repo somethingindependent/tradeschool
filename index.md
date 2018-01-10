@@ -5,20 +5,12 @@ layout: default
 A multi-disciplinary exhibition set against the backdrop of [North America’s
 largest gathering of outdoor industry leaders](https://www.outdoorretailer.com), Trade School explores the very nature of work. Through art installation and live-discussion, Trade School delves into the motivations of doers – those discovering a deeper connection to personal identity through the work they choose. The kind of work that keeps one up at night and gets one out of bed before first light. Trade School uncovers the path of outdoor-inspired artists & entrepreneurs, athletes & advocates and along the way brings us closer to the core of meaningful work.
 
+## Trade School is free and open to the public!
+
 {% include mailchimp.html %}
 
-# The Artists
+{% include artists.html %}
 
-Three artists - Jack Ludlam, Sarah Uhl, and John Fellows - have come together to create the backdrop of Trade School. Playing off of the theme ‘the nature of work’, the artists will assemble individual and collective works showcasing their unique take on work and how they have applied themselves as professional artists in and around the outdoor industry. 
-
-### [Jack Ludlam – Dedicated to the makers and their tools.](http://www.jackludlam.com/)
-Jack Ludlam is a photographer based out of Denver Colorado. Jack’s photographs primarily focus on the people and objects that represent a different generation of the proletariat. Jack has been interested in the traditional meaning of "work" since growing up on farms in Ohio. 
-
-### [Sarah Virginia Uhl – Joy evangelist on a hunt for adventure through art and advocacy for the land.](http://sarahuhl.com/)
-Sarah Uhl is an artist and advocate for the land, based out of Carbondale, Colorado. She is dedicated to making art that plays a role in the protection of public lands, clean water and climate issues. Sarah partners with brands and organizations who would like to amplify their messaging through art, visual storytelling and Live Art performances at festivals and events.
-
-### [John Fellows – Travel, Art, Mountains and Water](http://johnfellowsart.com)
-John Fellows’ signature “contemporary folk” style weaves together layers of found paper, graphic block prints and handwritten text to create an old time, hands-on feel. he collects a variety of found paper, maps and books dating from the 1880’s to the present to create unique linoleum carving collages that while at the very base reflect his personal experiences, are more like a brief glimpse into someone else’s story. 
 
 # The Talks
 - The Work of Water: with Tap-In, The Nature Conservancy, American Whitewater & Anglers Covey

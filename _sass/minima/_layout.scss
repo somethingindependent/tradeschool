@@ -111,6 +111,48 @@
 }
 
 /**
+ * Artist profiles
+ */
+
+.artists-container {
+  padding: $spacing-unit 0;
+  margin: auto;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+
+  @include media-query($on-palm) {
+    margin: auto 0;
+    width: 100%;
+  }
+}
+
+
+.artist-cell {
+  padding: $spacing-unit 0;
+  margin: $spacing-unit auto;
+  text-align: center;
+  width: calc(33% - #{$spacing-unit});
+  width: -webkit-calc(33% - #{$spacing-unit});
+
+  @include media-query($on-palm) {
+    margin: $spacing-unit 0;
+    width: 100%;
+  }
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.artist-photo {
+  height: 150px;
+  margin-bottom: 15px;
+}
+
+/**
  * Site footer
  */
 .site-footer {
