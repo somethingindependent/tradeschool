@@ -87,6 +87,7 @@
   background-color: $grey-color;
   color: $background-color;
   text-decoration: none;
+  -webkit-appearance: none;
   border: none;
   width: calc(100% - #{$spacing-unit});
   width: -webkit-calc(100% - #{$spacing-unit});
@@ -104,6 +105,7 @@
   background-color: $aqua-color;
   color: $background-color;
   text-decoration: none;
+  -webkit-appearance: none;
   border: none;
   width: 100%;
 }
