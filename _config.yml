@@ -5,3 +5,4 @@ plugins:
   - jekyll-seo-tag
 title: "TRADE SCHOOL @ UNDERSTUDY | January 24-28, 2017 | Denver, CO"
 google_analytics: 
+baseurl: 

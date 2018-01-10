@@ -1,20 +1,36 @@
 @charset "utf-8";
 
-// Define defaults for each variable.
+// Configure modular scale
+@import 'modularscale/modularscale';
+$modularscale: (
+  base: 1em,
+  ratio: 1.5
+);
 
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+// Custom color scheme
+$navy-color: #001A70 !default;
+$aqua-color: #19D3C5 !default;
+$grey-color: #D0CFCD !default;
+$brown-color: #503629 !default;
+
+
+// Define defaults for each variable.
+$base-font-family: "Helvetica Neue", Arial, sans-serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
+$heading-font-family: "Built Titling Sb", Arial, sans-serif !default;
+$heading-font-weight: 800 !default;
+
 $spacing-unit:     30px !default;
 
-$text-color:       #111 !default;
+$text-color:       #001A70 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
+$brand-color:      #001A70 !default;
 
-$grey-color:       #828282 !default;
+/* $grey-color:       #828282 !default; */
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
@@ -45,6 +61,7 @@ $on-laptop:        800px !default;
 
 // Import partials.
 @import
+  "tradeschool/built_titling",
   "minima/base",
   "minima/layout"
 ;
