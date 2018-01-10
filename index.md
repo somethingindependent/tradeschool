@@ -13,18 +13,31 @@ largest gathering of outdoor industry leaders](https://www.outdoorretailer.com),
 
 
 # The Talks
-- The Work of Water: with Tap-In, The Nature Conservancy, American Whitewater & Anglers Covey
-- The Business of Fun: with The Public Works
-- Leaders by Nature: with Wheelie Creative & Camber Outdoors
-- Prescribe Adventure: with First Descents
-- The Intersection of Art + Industry + Advocacy: with John Fellows + Smartwool + Sarah Uhl + Conservation
-- Colorado + Jack Ludlam
-- Winter on the Rocks – The Beginnings: with Icelantic Skis & Something Independent
-- An Inclusive Vision for the Next 100 Years of Conservation & Stewardship in America: with Next 100 Coalition,
-- Keystone Policy Institute & Colorado Outdoor Recreation Industry Office
-- The intersection of energy & the outdoors: with Noble Energy & Greenway Foundation
-- Tools of the Trade: Whiskey, Beer, Caffeine and Carhartts : with Wild Women’s Project
-- Maintaining Soul Through Growth: with Oskar Blues & Boa Technology
+## Wednesday 1/25
+### 1:00 - 4:00pm -	Maintaining Soul through Growth, hosted by Oskar Blues
+### 4:00 - 6:00 pm - SI Lounge: Opening Happy Hour	hosted by Something Independent; beer provided by Oskar Blues
+
+## Thursday 1/26
+### 10:30am - 12:00pm	- The 8 States of ORec, hosted by Colorado OREC
+### 12:00 - 3:00pm - Building communities through co-working, hosted by Wayfinder Co-Op
+### 3:00 - 5:00pm -	Energy & the Outdoors, hosted by Noble Energy
+
+## Friday 1/27
+### 8:00 - 10:00am - Inclusion in the Outdoors, hosted by Next100 Coalition
+### 10:30am - 11:30am	The Future of Water, hosted by TAP-IN
+### 12:00 - 1:00pm	Not Your Mother's Panel, hosted by Wheelie Creative
+### 1:30 - 2:30pm	- Live Podcast Recording, hosted by Juicy Bits & the Wild Women's Project
+### 3:00 - 4:30 pm - TBD, hosted by the National Ski Patrol
+
+## Saturday 1/28
+### 10:00 - 11:30am - Prescribing Adventure, hosted by First Descents
+### 12:00 - 1:30pm - The history of Winter on the Rocks
+### 2:00 - 3:30pm	- The Intersection of Art & the Outdoors featuring Jack Ludlam, Sarah Virginia Uhl, and John Fellows
+### 4:00 - 6:00pm	- Happy Hour	
+
+## Sunday 1/29
+### 10:00am - 11:30am - Building Resilient Communities, hosted by Something Independent OutPost
+### 12:00pm - 1:30pm	 - A Discussion on Public Lands
 
 # The Location
 [Understudy](http://understudydenver.com) is Denver’s first-of-its-kind arts and
