@@ -12,7 +12,10 @@ largest gathering of outdoor industry leaders](https://www.outdoorretailer.com),
 {% include artists.html %}
 
 
-# The Talks
+<h1><a name="talks">The Talks</a></h1>
+
+We have five days of inspirational and educational talks that will get you thinking about the nature of real work. 
+
 ## Wednesday 1/25
 ### 1:00 - 4:00pm -	Maintaining Soul through Growth, hosted by Oskar Blues
 ### 4:00 - 6:00 pm - SI Lounge: Opening Happy Hour	hosted by Something Independent; beer provided by Oskar Blues
@@ -39,7 +42,7 @@ largest gathering of outdoor industry leaders](https://www.outdoorretailer.com),
 ### 10:00am - 11:30am - Building Resilient Communities, hosted by Something Independent OutPost
 ### 12:00pm - 1:30pm	 - A Discussion on Public Lands
 
-# The Location
+<h1><a name="gethere">The Location</a></h1>
 [Understudy](http://understudydenver.com) is Denver’s first-of-its-kind arts and
 culture incubator and experimental space. Operated, curated and funded by the
 [Denver Theatre District](http://denvertheatredistrict.com), Understudy is a 700-square-foot space for the community to explore and experience new artistic and cultural endeavors. Understudy is a way to experiment both operationally and artistically, to determine the best way to provide artists, creative groups and the community with a free, central, immersive and innovative space for installation-based work.
