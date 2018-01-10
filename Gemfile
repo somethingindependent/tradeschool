@@ -10,3 +10,6 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'github-pages'
 end
+
+gem 'rake'
+gem 'html-proofer'
