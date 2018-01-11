@@ -64,13 +64,3 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJF46nztF4bIcRp71C4
 
 # About Something Independent
 Over the years, we have come to see what 'real work' looks like and better understand the mindset that lies behind it – a disposition inherent to the Mountain West and the independent-minded men and women who carve their paths here. Starting with the inaugural SIA SnowShow in Denver in early 2010, Something Independent set out to promote the industry and culture of snowsports in Colorado. Programs including the Economics of Soul, the Art of Winter and the Entrepreneurs Garage highlighted the industry’s outsized impact on communities and economies across the state. Today, initiatives such as The Wright, S|I OutPost and Trade School provide means through which to explore the challenges and possibilities that bring us closer to the core of meaningful work.”
-
-# Sponsors
-Trade School is presented by Something Independent in partnership with:
-
-![Denver Theatre District](/assets/logos/dtd.jpg)
-![Colorado Outdoor Recreation Industry Office](/assets/logos/orec.png)
-![Larimer Square]()
-[![Tap-IN](/assets/logos/tapin.png)](http://tapinco.org/)
-[![Next 100 Coalition](/assets/logos/next100.jpg)](http://next100coalition.org/)
-[![WeWork]()](https://wework.com/)

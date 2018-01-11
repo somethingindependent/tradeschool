@@ -153,6 +153,35 @@
 }
 
 /**
+ * Sponsors
+ */
+
+.sponsor-logos {
+
+  a {
+    min-height: 125px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    margin: $spacing-unit $spacing-unit / 2;
+    width: -webkit-calc(33% - (#{$spacing-unit}));
+    width:         calc(33% - (#{$spacing-unit}));
+
+    @include media-query($on-palm) {
+      min-height: 0;
+      margin: $spacing-unit 15%;
+      width: 70%;
+    }
+  }
+
+  img {
+    width: 100%;
+  }
+}
+
+
+/**
  * Site footer
  */
 .site-footer {
