@@ -2,10 +2,21 @@
 layout: default
 ---
 
+
+# Five days of art and talks exploring the nature of work // January 25 &mdash; 29, 2018
+
+### Featuring art from Jack Ludlam, Sarah Virginia Uhl, and John Fellows.
+
+### Featuring talks with Icelantic / Winter on the Rocks, Oskar Blues, First Ascents, Colorado Outdoor Recreation Office, and more.
+
+### 10am - 6pm daily at Understudy (890C 14th St)
+
+
 A multi-disciplinary exhibition set against the backdrop of [North America’s
 largest gathering of outdoor industry leaders](https://www.outdoorretailer.com), Trade School explores the very nature of work. Through art installation and live-discussion, Trade School delves into the motivations of doers – those discovering a deeper connection to personal identity through the work they choose. The kind of work that keeps one up at night and gets one out of bed before first light. Trade School uncovers the path of outdoor-inspired artists & entrepreneurs, athletes & advocates and along the way brings us closer to the core of meaningful work.
 
-## Trade School is free and open to the public!
+**Trade School is free and open to the public! All sessions are first-come,
+first served.**
 
 {% include mailchimp.html %}
 
