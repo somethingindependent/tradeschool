@@ -38,8 +38,8 @@ We have five days of inspirational and educational talks that will get you think
 
 ## Friday 1/27
 ### 8:00 - 10:00am - Inclusion in the Outdoors, hosted by Next100 Coalition
-### 10:30am - 11:30am	The Future of Water, hosted by TAP-IN
-### 12:00 - 1:00pm	Not Your Mother's Panel, hosted by Wheelie Creative
+### 10:30am - 11:30am - The Future of Water, hosted by TAP-IN
+### 12:00 - 1:00pm - Not Your Mother's Panel, hosted by Wheelie Creative
 ### 1:30 - 2:30pm	- Live Podcast Recording, hosted by Juicy Bits & the Wild Women's Project
 ### 3:00 - 4:30 pm - TBD, hosted by the National Ski Patrol
 
