@@ -1,7 +1,6 @@
 .site-header {
-  height: 300px;
-  background-image: url('/assets/TradeSchoolBanner1-01.png');
-  background-position: top center;
+  background-image: url('/assets/bark_topo_pattern.png');
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -12,17 +11,29 @@
   font-weight: $heading-font-weight;
   line-height: 1;
   padding-top: $spacing-unit;
+  text-align: center;
 }
 
 .site-subtitle {
-  font-size: ms(2);
+  display: none;
+  font-size: ms(0);
   font-family: $heading-font-family;
   font-weight: $heading-font-weight;
   line-height: 1;
+  text-align: right;
+}
+
+.site-subtitle-image {
+  width: 33%;
+  margin: 0 auto 30px auto;
+  display: block;
 }
 
 .site-tagline {
-  font-size: ms(1);
+  text-align: center;
+  background-color: $navy-color;
+  color: $background-color;
+  font-size: ms(2);
   font-family: $heading-font-family;
   font-weight: $heading-font-weight;
 }
@@ -129,6 +140,9 @@
   }
 }
 
+.artist-cell {
+  margin-bottom: $spacing-unit;
+}
 
 .artist-photo {
   width: 50%;
@@ -141,22 +155,33 @@
   }
 }
 
-.artist-cell {
-  margin-bottom: $spacing-unit;
+.artist-cell:nth-child(even) .artist-photo {
+  float: right;
+}
+
+.artist-cell:nth-child(odd) .artist-photo {
+  float: left;
 }
 
 .artist-description {
   margin: 0;
-  padding: 0 $spacing-unit;
-  float: right;
+  padding: $spacing-unit / 2;
   font-size: ms(0);
-  width: -webkit-calc(50% - (#{$spacing-unit * 2}));
-  width:         calc(50% - (#{$spacing-unit * 2}));
+  width: -webkit-calc(50% - (#{$spacing-unit}));
+  width:         calc(50% - (#{$spacing-unit}));
 
   @include media-query($on-palm) {
-    width: -webkit-calc(100% - (#{$spacing-unit * 2}));
-    width:         calc(100% - (#{$spacing-unit * 2}));
+    width: -webkit-calc(100% - (#{$spacing-unit}));
+    width:         calc(100% - (#{$spacing-unit}));
   }
+}
+
+.artist-cell:nth-child(even) .artist-description {
+  float: left;
+}
+
+.artist-cell:nth-child(odd) .artist-description {
+  float: right;
 }
 
 .artist-tagline {
