@@ -1,0 +1,4 @@
+addons:
+  apt:
+    packages:
+      - libcurl3-dev
