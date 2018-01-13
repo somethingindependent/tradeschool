@@ -42,7 +42,7 @@ first served.**
 
 ## Background
 
-Set against the backdrop of [North America’s largest gathering of outdoor industry leaders](https://www.outdoorretailer.com), Trade School explores the very nature of work. Through art installation and daily discussions, Trade School delves into the motivations of doers – those discovering a deeper connection to personal identity through the kind of work that keeps one up at night and gets one out of bed before first light. Trade School uncovers the path of outdoor-inspired artists, entrepreneurs, athletes & advocates and along the way brings us closer to the core of meaningful work.
+Set against the backdrop of [North America’s largest gathering of outdoor industry leaders](http://www.outdoorretailer.com), Trade School explores the very nature of work. Through art installation and daily discussions, Trade School delves into the motivations of doers – those discovering a deeper connection to personal identity through the kind of work that keeps one up at night and gets one out of bed before first light. Trade School uncovers the path of outdoor-inspired artists, entrepreneurs, athletes & advocates and along the way brings us closer to the core of meaningful work.
 
 {% include artists.html %}
 
