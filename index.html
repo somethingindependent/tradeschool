@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+<div class="wrapper">
+  <section class="content-section intro">
+    {% capture intro %}
+      {%- include intro.md %}
+    {% endcapture %}
+    {{ intro | markdownify }}
+  </section>
+</div>
+
+<div class="wrapper">
+  <section class="content-section">
+    {% include mailchimp.html %}
+  </section>
+</div>
+
+{% comment %} <nav class="site-nav" role="navigation"> {% endcomment %}
+{% comment %}   <div class="wrapper"> {% endcomment %}
+{% comment %}     <ul> {% endcomment %}
+{% comment %}       <li><a href="#art">Art</a></li> {% endcomment %}
+{% comment %}       <li><a href="#schedule">Talks</a></li> {% endcomment %}
+{% comment %}       <li><A href="#location">Get Here</a></li> {% endcomment %}
+{% comment %}     </ul> {% endcomment %}
+{% comment %}   </div> {% endcomment %}
+{% comment %} </nav> {% endcomment %}
+
+<div class="content-section-header">
+  <a name="schedule">Schedule</a>
+</div>
+<div class="wrapper">
+  <section class="content-section">
+    {% capture talks %}
+      {%- include talks.md %}
+    {% endcapture %}
+    {{ talks | markdownify }}
+  </section>
+</div>
+
+<div class="content-section-header">
+  <a name="art">Artists</a>
+</div>
+<div class="wrapper">
+  <section class="content-section">
+
+    {% include artists.html %}
+  </section>
+</div>
+
+<div class="content-section-header">
+  <a name="location">Location</a>
+</div>
+
+<div class="wrapper">
+  <section class="content-section">
+    {% capture location %}
+      {%- include location.md %}
+    {% endcapture %}
+    {{ location | markdownify }}
+  </section>
+</div>
+<iframe width="100%" height="450" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJF46nztF4bIcRp71C4_p-sn4&key=AIzaSyAlRyNJifvgv8T2QFhiHG9ZgwQ1P7So8AM" allowfullscreen></iframe>
