@@ -24,18 +24,8 @@
   font-family: $heading-font-family;
   font-weight: $heading-font-weight;
   line-height: 1;
-  padding-top: $spacing-unit;
+  padding: $spacing-unit 0 $spacing-unit / 2 0;
   text-align: center;
-  color: $background-color;
-}
-
-.site-subtitle {
-  display: none;
-  font-size: ms(0);
-  font-family: $heading-font-family;
-  font-weight: $heading-font-weight;
-  line-height: 1;
-  text-align: right;
   color: $background-color;
 }
 
@@ -46,6 +36,7 @@
   font-size: ms(2);
   font-family: $heading-font-family;
   font-weight: $heading-font-weight;
+  padding: $spacing-unit / 2 0;
 }
 
 .intro-logo {
