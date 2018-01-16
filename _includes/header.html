@@ -12,8 +12,10 @@
 
 </header>
 
-<section class="site-tagline">
-  <div class="wrapper">
-    January 24 &mdash; 28, 2018
-  </div>
-</section>
+{% unless layout.exclude_tagline %}
+  <section class="site-tagline">
+    <div class="wrapper">
+      January 24 &mdash; 28, 2018
+    </div>
+  </section>
+{% endunless %}
