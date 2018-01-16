@@ -4,12 +4,12 @@
 @import 'modularscale/modularscale';
 $modularscale: (
   base: 1em,
-  ratio: 1.5
+  ratio: 1.25
 );
 
 // Fonts
 @import "tradeschool/built_titling";
-@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Lato:100,400');
 
 // Custom color scheme
 $navy-color: #0A2A63 !default;
