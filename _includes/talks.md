@@ -1,5 +1,7 @@
 Five days of inspirational and educational talks that get you thinking about the nature of real work. 
 
+_Please understand that Understudy is an intimate venue with limited seating available for sessions. We can accommodate up to about 40 people. If you’re planning to attend a session, please arrive early knowing that even arriving early does not guarantee access. Each session will also be streamed live on Facebook, and aired simultaneously at [The Commons on Champa](http://thecommons.co/)._
+
 ## Wednesday 1/24
 ### 2:00pm - Maintaining Soul through Growth, hosted by Oskar Blues
 ### 4:00pm - Opening Happy Hour hosted by The Wright; beer provided by Oskar Blues
