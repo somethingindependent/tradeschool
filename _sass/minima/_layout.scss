@@ -234,32 +234,45 @@
 
 /**
  * Sponsors
+ * * This is not built responsively - it scales down but does not re-layout
  */
 
 .sponsor-logos {
-
   a {
-    min-height: 125px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    float: left;
-    margin: $spacing-unit $spacing-unit / 2;
-    width: -webkit-calc(33% - (#{$spacing-unit}));
-    width:         calc(33% - (#{$spacing-unit}));
-
-    @include media-query($on-palm) {
-      min-height: 0;
-      margin: $spacing-unit 15%;
-      width: 70%;
-    }
+    margin: $spacing-unit / 2 $spacing-unit / 2;
   }
 
   img {
     width: 100%;
   }
+
+  .logo-row-1up, .logo-row-2up, .logo-row-3up {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .logo-row-3up a {
+    width: -webkit-calc(33% - (#{$spacing-unit}));
+    width:         calc(33% - (#{$spacing-unit}));
+  }
+
+  .logo-row-2up a {
+    width: -webkit-calc(50% - (#{$spacing-unit}));
+    width:         calc(50% - (#{$spacing-unit}));
+  }
+
+  .logo-row-1up a {
+    width: -webkit-calc(100% - (#{$spacing-unit}));
+    width:         calc(100% - (#{$spacing-unit}));
+  }
 }
 
+.sponsor-copy {
+  margin: $spacing-unit auto;
+  text-align: center;
+}
 
 /**
  * Site footer
