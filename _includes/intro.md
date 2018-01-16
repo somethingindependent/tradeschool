@@ -2,8 +2,6 @@ Set against the backdrop of North America’s largest gathering of outdoor indus
 
 **January 24 &mdash; 28, 2018**
 
-**@ Understudy**
-
-**Denver’s experimental art & culture incubator**
-
-**890C 14th Street (at Champa)**
+**@ Understudy  
+Denver’s experimental art & culture incubator  
+890C 14th Street (at Champa)**
