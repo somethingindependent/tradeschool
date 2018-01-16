@@ -21,7 +21,8 @@
   z-index: 5;
 }
 
-.site-title {
+.site-title, .site-title:active, .site-title:hover, .site-title:visited  {
+  display: block;
   position: relative;
   font-size: ms(9);
   font-family: $heading-font-family;
@@ -29,6 +30,7 @@
   line-height: 1;
   padding: $spacing-unit * 2 0 $spacing-unit / 2 0;
   text-align: center;
+  text-decoration: none;
   color: $background-color;
   z-index: 10;
 }
@@ -138,7 +140,6 @@
   color: $background-color;
   background-color: $aqua-color;
   text-align: center;
-  margin: 0 0 $spacing-unit 0;
   padding: $spacing-unit / 2 0;
   font-size: ms(4);
   font-family: $heading-font-family;
