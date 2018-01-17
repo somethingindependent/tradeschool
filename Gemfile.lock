@@ -248,7 +248,6 @@ DEPENDENCIES
   github-pages
   html-proofer
   jekyll
-  jekyll-seo-tag
   rake
 
 BUNDLED WITH
