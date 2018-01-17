@@ -82,6 +82,28 @@
   }
 }
 
+.site-social {
+  position: relative;
+  text-align: right;
+  z-index: 10;
+  width: 100%;
+  padding-top: $spacing-unit;
+
+  @include media-query($on-palm) {
+    text-align: center;
+    padding-top: $spacing-unit / 2;
+  }
+
+  a {
+    margin: 0 $spacing-unit 0 0;
+    color: $background-color;
+
+    @include media-query($on-palm) {
+      margin: 0 $spacing-unit / 2;
+    }
+  }
+}
+
 .site-tagline {
   text-align: center;
   background-color: $aqua-color;
