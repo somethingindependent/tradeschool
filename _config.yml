@@ -2,8 +2,16 @@ collections:
   talks:
     output: true
     permalink: '/:name'
-plugins:
+gems:
   - jekyll-seo-tag
+  - jekyll-extlinks
+  - jekyll-commonmark-ghpages
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jemoji
+  - jekyll-sitemap
 title: "TRADE SCHOOL @ UNDERSTUDY | January 24-28, 2018 | Denver, CO"
 description: "Five days of art and talks exploring the nature of work, set against the backdrop of North America’s largest gathering of outdoor industry leaders"
 url: http://trade-school.co/
@@ -25,3 +33,5 @@ defaults:
       image: assets/trade-school-ig.png
 google_analytics: "UA-111929567-1"
 future: true
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
