@@ -18,5 +18,10 @@ social:
     - https://www.facebook.com/SomethingIndependent/
     - https://www.instagram.com/somethingindependent/
 logo: "/assets/trade-school-ig.png"
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/trade-school-ig.png
 google_analytics: "UA-111929567-1"
 future: true
