@@ -1,4 +1,4 @@
-Set against the backdrop of North America’s largest gathering of outdoor industry leaders, **TRADE SCHOOL** offers a window into the real work of outdoor-inspired artists, entrepreneurs, athletes and advocates.
+Set against the backdrop of North America's largest gathering of outdoor industry leaders, **TRADE SCHOOL** is five days of art & discussion offering a window into the __real work__ of outdoor-inspired artists, entrepreneurs, athletes and advocates.
 
 **Located @ Understudy  
 Denver’s experimental art & culture incubator**
