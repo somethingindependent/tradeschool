@@ -5,5 +5,18 @@ collections:
 plugins:
   - jekyll-seo-tag
 title: "TRADE SCHOOL @ UNDERSTUDY | January 24-28, 2018 | Denver, CO"
+description: "Five days of art and talks exploring the nature of work, set against the backdrop of North America’s largest gathering of outdoor industry leaders"
+url: http://trade-school.co/
+twitter:
+  username: somethingindpnt
+facebook:
+  publisher: https://www.facebook.com/SomethingIndependent/
+social:
+  name: TRADE SCHOOL, a Something Independent project
+  links:
+    - https://twitter.com/somethingindpnt
+    - https://www.facebook.com/SomethingIndependent/
+    - https://www.instagram.com/somethingindependent/
+logo: "/assets/trade-school-ig.png"
 google_analytics: "UA-111929567-1"
 future: true
