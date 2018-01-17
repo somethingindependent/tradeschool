@@ -289,6 +289,16 @@
  * * This is not built responsively - it scales down but does not re-layout
  */
 
+.partner-si-logo {
+  margin: auto auto $spacing-unit auto;
+  width: 33%;
+  text-align: center;
+
+  @include media-query($on-palm) {
+    width: 50%;
+  }
+}
+
 .sponsor-logos {
   a {
     margin: $spacing-unit / 2 $spacing-unit / 2;
