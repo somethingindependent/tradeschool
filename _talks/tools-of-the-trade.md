@@ -1,6 +1,6 @@
 ---
 date: 2018-01-27T11:30:00-08:00
-title: "Tools of the Trade — Juicy Bits Live Podcast Recording"
+title: "Tools of the Trade — Juicy Bits Live Podcast"
 layout: talk
 ---
 

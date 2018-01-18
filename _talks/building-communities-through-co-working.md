@@ -12,3 +12,6 @@ Not all work is done in cubicles and behind desks these days; those inclined to 
 - Joe Ewing, [Wayfinder Co-op](https://wayfinder-coop.com/)/[Desta Technologies](https://desta.co/)
 - Gary Bracelin, [Bend Outdoor Worx](http://bendoutdoorworx.com/)/[Oregon Outdoor Alliance](https://oregonoutdooralliance.wildapricot.org/)
 - Brian Watson, [Proximity Space](https://proximity.space/)/[FACTORY](https://factorycoworking.com/)
+
+### Moderator
+- Kiki Grainger, [Something Independent Ambassador](http://www.somethingindependent.com/)/[Wayfinder Co-op Advisory Board](https://wayfinder-coop.com/)

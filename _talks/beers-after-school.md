@@ -4,5 +4,3 @@ hostedby: "TRADE SCHOOL"
 title: "Beers After School"
 layout: talk
 ---
-
-Stay tuned! More details on this session are coming soon.

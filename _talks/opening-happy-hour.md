@@ -4,5 +4,3 @@ hostedby: "The Wright"
 title: "Opening Happy Hour"
 layout: talk
 ---
-
-Description coming soon!
