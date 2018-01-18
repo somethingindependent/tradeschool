@@ -6,6 +6,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 url: "http://trade-school.co"
+baseurl: ""
 title: "TRADE SCHOOL @ UNDERSTUDY | January 24-28, 2018 | Denver, CO"
 description: "Five days of art and talks exploring the nature of work, set against the backdrop of North America’s largest gathering of outdoor industry leaders"
 url: http://trade-school.co/
