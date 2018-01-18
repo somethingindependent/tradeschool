@@ -26,5 +26,6 @@ defaults:
       path: ""
     values:
       image: assets/trade-school-ig.png
+      last_modified_at: now
 google_analytics: "UA-111929567-1"
 future: true
