@@ -10,8 +10,9 @@ The work we choose: explore the depths of the infectious pride, community and te
 
 ### Speakers:
 - [Meegan Moszynski, National Ski Patrol](https://www.nsp.org/)
-- [Max Tyler, Copper Mountain](http://www.coppercolorado.com/)
+- [Max Tyler, Copper Snow Safety](http://www.coppercolorado.com/)
 - [Mac Smith, Aspen Highlands](https://www.aspensnowmass.com/our-mountains/aspen-highlands)
+- Brendan McCue, Beaver Creek/National Ski Patrol Subaru Ambassador
 
 ### Moderator
 - [Dave Bacon, BWBacon Group](http://www.bwbacon.com/)
