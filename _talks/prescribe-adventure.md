@@ -1,5 +1,6 @@
 ---
 date: 2018-01-27T10:00:00-08:00
+date_end: 2018-01-27T11:30:00-08:00
 title: "Prescribe Adventure"
 layout: talk
 ---

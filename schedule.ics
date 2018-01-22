@@ -1,0 +1,25 @@
+---
+layout: false
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://trade-school.co/
+X-WR-CALNAME:TRADE SCHOOL 2018 Schedule of Events
+X-WR-CALDESC:Five days of art and discussion exploring the nature of work. Details at http://trade-school.co/
+METHOD:PUBLISH
+{% for talk in site.talks -%}
+BEGIN:VEVENT
+UID:{{ talk.slug | absolute_url }}
+URL:{{ talk.slug | absolute_url }}
+ORGANIZER;CN="Something Independent":MAILTO:hello@somethingindependent.com
+LOCATION:Understudy, 890 14th Street, Denver, CO
+SUMMARY:{{ talk.title }}
+DESCRIPTION:View session details at {{ talk.slug | absolute_url }}
+CLASS:PUBLIC
+TZID:America/Denver
+DTSTART;{{ talk.date | date: "TZID=America/Denver:%Y%m%dT%H%M%S" }}
+DTEND;{{ talk.date_end | date: "TZID=America/Denver:%Y%m%dT%H%M%S" }}
+DTSTAMP;{{ "now" | date: "TZID=America/Denver:%Y%m%dT%H%M%S" }}
+END:VEVENT
+{% endfor -%}
+END:VCALENDAR

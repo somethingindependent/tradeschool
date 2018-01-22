@@ -1,5 +1,6 @@
 ---
 date: 2018-01-27T13:00:00-08:00
+date_end: 2018-01-27T14:00:00-08:00
 title: "Backstage with Icelantic's Winter on the Rocks: An Unfiltered Conversation with the Creators"
 layout: talk
 ---

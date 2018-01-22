@@ -365,3 +365,26 @@
   font-style: italic;
   line-height: 1;
 }
+
+.calendar-button, .calendar-button:hover, .calendar-button:active, .calendar-button:visited {
+  display: block;
+  font-family: $heading-font-family;
+  font-size: ms(1);
+  padding: $spacing-unit / 2;
+  margin: $spacing-unit auto;
+  background-color: $aqua-color;
+  color: $background-color;
+  text-decoration: none;
+  -webkit-appearance: none;
+  border: none;
+  width: 50%;
+  text-align: center;
+
+  @include media-query($on-palm) {
+    width: 80%;
+  }
+
+  i {
+    margin-right: $spacing-unit / 2;
+  }
+}

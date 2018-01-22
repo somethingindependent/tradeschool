@@ -1,5 +1,6 @@
 ---
 date: 2018-01-25T15:00:00-08:00
+date_end: 2018-01-25T16:00:00-08:00
 title: "Energy & The Outdoors"
 layout: talk
 ---

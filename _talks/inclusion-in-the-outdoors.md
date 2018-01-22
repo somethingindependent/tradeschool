@@ -1,5 +1,6 @@
 ---
-date: 2018-01-26T8:00:00-08:00
+date: 2018-01-26T08:00:00-08:00
+date_end: 2018-01-26T10:00:00-08:00
 title: "Inclusion in the Outdoors"
 layout: talk
 ---

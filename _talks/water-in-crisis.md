@@ -1,5 +1,6 @@
 ---
 date: 2018-01-26T10:30:00-08:00
+date_end: 2018-01-26T11:30:00-08:00
 title: "Water in Crisis: Will the Outdoor Industry Take the Lead?"
 layout: talk
 ---
