@@ -366,6 +366,11 @@
   line-height: 1;
 }
 
+.social-button {
+  display: block;
+  margin: $spacing-unit / 2 auto;
+}
+
 .calendar-button, .calendar-button:hover, .calendar-button:active, .calendar-button:visited {
   display: block;
   font-family: $heading-font-family;

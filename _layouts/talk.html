@@ -3,11 +3,28 @@ layout: default
 exclude_tagline: true
 ---
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <h1 class="content-section-header">{{ page.date | date: "%A, %B %d at %-I:%M%P" }}</h1>
 <div class="wrapper">
   <section class="content-section">
     <h2>{{ page.title }}</h2>
     {{ page.content }}
+    <div class="social-buttons">
+      <div class="social-button">
+        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-hashtags="tradeschool" data-related="somethindindpt" data-dnt="true" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+      <div class="social-button">
+        <div class="fb-share-button" data-href="http://trade-school.co/" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftrade-school.co%2F&amp;src=sdkpreparse">Share</a></div>
+      </div>
+    </div>
     <h4><a href="{{ "/" | relative_url }}#schedule">&larr; back to schedule</a></h4>
   </section>
 </div>
