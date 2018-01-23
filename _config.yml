@@ -32,6 +32,7 @@ defaults:
       image: assets/trade-school-ig.png
       last_modified_at: now
   - scope:
-      path: "_talks"
+      path: ""
+      type: talks
     values:
-      layout: "talk.html"
+      layout: talk
