@@ -7,7 +7,6 @@ title: "Backstage with Icelantic's Winter on the Rocks: An Unfiltered Conversati
 This will be an unscripted discussion the morning-after Winter on the Rocks with the founders and creators of the most recognized winter live-music event, at the most iconic outdoor music venue in the country. We’ll hear about the earliest visions, the unanticipated hurdles and a few, “can you believe that shit?!” stories.
 
 ### Speakers
-- Sam Warren, The Pinecone Project
-
-### Moderator
+- Sam Warren, Co-founder/Creator, Winter on the Rocks.
 - Castle Searcy, [Denver Startup Week Design Track](https://www.denverstartupweek.org/) / [VIP Experience Winter on the Rocks](https://www.icelanticskis.com/pages/road-to-the-rocks)
+- [Chuck Sullivan, Something independent](http://www.somethingindependent.com/)
