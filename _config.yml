@@ -1,15 +1,14 @@
-collections:
-  talks:
-    output: true
-    permalink: '/:name'
+# Global Options
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+future: true
+google_analytics: "UA-111929567-1"
+# SEO / Sitemap
 url: "http://trade-school.co"
 baseurl: ""
 title: "TRADE SCHOOL @ UNDERSTUDY | January 24-28, 2018 | Denver, CO"
 description: "Five days of art and talks exploring the nature of work, set against the backdrop of North America’s largest gathering of outdoor industry leaders"
-url: http://trade-school.co/
 twitter:
   username: somethingindpnt
 facebook:
@@ -21,11 +20,18 @@ social:
     - https://www.facebook.com/SomethingIndependent/
     - https://www.instagram.com/somethingindependent/
 logo: assets/trade-school-ig.png
+# Collections
+collections:
+  talks:
+    output: true
+    permalink: '/:name'
 defaults:
   - scope:
       path: ""
     values:
       image: assets/trade-school-ig.png
       last_modified_at: now
-google_analytics: "UA-111929567-1"
-future: true
+  - scope:
+      path: "_talks"
+    values:
+      layout: "talk.html"

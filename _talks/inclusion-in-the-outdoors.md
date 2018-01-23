@@ -2,7 +2,6 @@
 date: 2018-01-26T08:00:00-08:00
 date_end: 2018-01-26T10:00:00-08:00
 title: "Inclusion in the Outdoors"
-layout: talk
 ---
 
 ### With [Next 100 Coalition](http://next100coalition.org/) and [cityWILD](http://www.citywild.org/)
