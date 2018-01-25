@@ -4,6 +4,7 @@ plugins:
   - jekyll-sitemap
 future: true
 google_analytics: "UA-111929567-1"
+timezone: America/Denver
 # SEO / Sitemap
 url: "http://trade-school.co"
 baseurl: ""
