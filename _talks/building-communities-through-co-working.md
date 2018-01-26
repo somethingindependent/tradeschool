@@ -16,3 +16,6 @@ Not all work is done in cubicles and behind desks these days; those inclined to 
 
 ### Moderator
 - Kiki Grainger, [Something Independent Ambassador](http://www.somethingindependent.com/)/[Wayfinder Co-op Advisory Board](https://wayfinder-coop.com/)
+
+### Video
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FSomethingIndependent%2Fvideos%2F1586759134694782%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
