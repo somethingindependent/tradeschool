@@ -2,6 +2,7 @@
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 future: true
 google_analytics: "UA-111929567-1"
 # SEO / Sitemap
