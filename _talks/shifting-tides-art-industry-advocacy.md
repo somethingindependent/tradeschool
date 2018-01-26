@@ -14,6 +14,8 @@ Join this panel featuring our Trade School artists, Jack Ludlum, John Fellows an
 - [Sarah Uhl](http://sarahuhl.com/)
 - [John Fellows](http://johnfellowsart.com/)
 - [Jack Ludlam](http://www.jackludlam.com/)
+- [Micha Rosenoera, Conservation Colorado](https://conservationco.org/)
+- Mike Arzt, [The Public Works](https://www.thepublicworks.biz/) / [Battery621](http://www.battery621.com/)
 
 ### Moderator
 - [Meredith Badler, Colorado Business Committee for the Arts](http://cbca.org/)
