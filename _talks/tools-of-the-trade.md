@@ -11,3 +11,6 @@ Coinciding with “Our Home,” Jen Gurecki of Coalition Snow and Amanda Goad of
 ### Speakers
 - Amanda Goad, [BoldBrew](https://www.boldbrewteam.com/)/[Project 16x](https://project16x.com/)
 - Jen Gurecki, [Coalition Snow](https://www.coalitionsnow.com/)/[Juicy Bits](https://itunes.apple.com/us/podcast/juicy-bits/id1294273134)
+
+### Video
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FSomethingIndependent%2Fvideos%2F1588667401170622%2F&show_text=0&width=560" width="560" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>

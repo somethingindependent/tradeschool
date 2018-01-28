@@ -12,5 +12,8 @@ This will be an unscripted discussion the morning-after Winter on the Rocks with
 - [Chad Melis, Oskar Blues Brewery](http://www.oskarblues.com)
 - [Chuck Sullivan, Something independent](http://www.somethingindependent.com/)
 
-# Moderator
+### Moderator
 - Castle Searcy, Cultural Maven, [#DENstartupweek](https://www.denverstartupweek.org/) / [iWOTR Backstage at Red Rocks Experience](https://www.icelanticskis.com/pages/road-to-the-rocks)
+
+### Video
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FSomethingIndependent%2Fvideos%2F1588739727830056%2F&show_text=0&width=560" width="560" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>

@@ -20,3 +20,6 @@ Outdoor recreation has undergone a dramatic transformation from an undervalued i
 
 ### Moderator
 - [Chuck Sullivan, Something Independent](http://www.somethingindependent.com/)
+
+### Video
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FSomethingIndependent%2Fvideos%2F1589510137753015%2F&show_text=0&width=560" width="560" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
