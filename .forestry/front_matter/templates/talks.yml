@@ -1,0 +1,55 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: date_end
+  label: Date end
+  type: datetime
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: redirect_from
+  label: Redirect from
+  type: list
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: assets/trade-school-ig.png
+- name: last_modified_at
+  label: Last modified at
+  type: text
+  hidden: false
+  default: now
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: talk
+pages:
+- _talks/idaho-springs-mining-future.md
+- _talks/school-spirit.md
+- _talks/beers-after-school.md
+- _talks/shifting-tides-art-industry-advocacy.md
+- _talks/backstage-winter-on-the-rocks.md
+- _talks/tools-of-the-trade.md
+- _talks/prescribe-adventure.md
+- _talks/sentinels-of-the-shack.md
+- _talks/millennial-leaders.md
+- _talks/water-in-crisis.md
+- _talks/inclusion-in-the-outdoors.md
+- _talks/energy-and-the-outdoors.md
+- _talks/building-communities-through-co-working.md
+- _talks/crazy-eights-states-of-orec.md
+- _talks/maintaining-soul-through-growth.md
