@@ -1,8 +1,8 @@
-Set against the backdrop of North America's largest gathering of outdoor industry leaders, **TRADE SCHOOL** is five days of **[art](#art)** & **[discussion](#schedule)** offering a window into the __real work__ of outdoor-inspired artists, entrepreneurs, athletes and advocates.
+Trade School returns alongside Outdoor Retailer with four-days of inspired discussion, original art and informal collisions with leading athletes, advocates, entrepreneurs and artists of the outdoor industry. 
 
-**Located @ Understudy  
-Denver’s experimental art & culture incubator**
+**July 23 - 26**
 
-**Free and open to the public**
+Live from the lobby of the Aloft Hotel
+(800 15th St. @ Stout | Downtown Denver)
 
-**Come visit us at 890 14th Street, adjacent to the Colorado Convention Center B-Cycle Station**
+**SESSION SCHEDULE & EXHIBIT INFORMATION COMING SOON!**

@@ -8,8 +8,10 @@ google_analytics: "UA-111929567-1"
 # SEO / Sitemap
 url: "http://trade-school.co"
 baseurl: ""
-title: "TRADE SCHOOL @ UNDERSTUDY | January 24-28, 2018 | Denver, CO"
+title: "TRADE SCHOOL | July 23-26, 2018 | Denver, CO"
 description: "Five days of art and talks exploring the nature of work, set against the backdrop of North America’s largest gathering of outdoor industry leaders"
+current_edition: "summer-2018"
+location_address: "Aloft Hotel, 800 15th St, Denver, CO"
 twitter:
   username: somethingindpnt
 facebook:
@@ -25,7 +27,6 @@ logo: assets/trade-school-ig.png
 collections:
   talks:
     output: true
-    permalink: '/:name'
 defaults:
   - scope:
       path: ""
@@ -37,3 +38,8 @@ defaults:
       type: talks
     values:
       layout: talk
+  - scope:
+      path: "_talks/winter-2018"
+      type: talks
+    values:
+      edition: "winter-2018"

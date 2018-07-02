@@ -1,8 +1,8 @@
-Five days of inspirational and educational talks that get you thinking about the nature of real work. 
+Trade School Talks are scheduled for Monday, July 23 &mdash; Thursday, July 26. Sessions will take place daily at 11am, 1pm and 3pm. 
 
-<span class="disclaimer">
-Please be aware that Understudy is an intimate venue with limited seating available for sessions. We can accommodate about 40 people. If you’re planning to attend a session, please arrive early knowing that even arriving early does not guarantee access. Each session will also be streamed live on Facebook, and aired simultaneously at [The Commons on Champa](http://thecommons.co/).
-</span>
+All sessions take place live in the lobby of the Aloft Hotel located at 800 15th Street, on the corner of 15th and Stout St, in Downtown Denver.
+
+## SESSION SCHEDULE COMING SOON!
 
 ### Use Google Calendar, iCal, or Outlook?
 Subscribe to the full schedule and make it easy to look up all of the details on-the-go.
@@ -17,7 +17,7 @@ Subscribe to the full schedule and make it easy to look up all of the details on
   Add to Google Calendar
 </a>
 
-{% assign talks_by_day = site.talks | sort: "date" | group_by_exp: "talk", "talk.date | date: '%A, %-m/%-d'" %}
+{% assign talks_by_day = site.talks | where_exp: "item", "item.edition == site.current_edition" | sort: "date" | group_by_exp: "talk", "talk.date | date: '%A, %-m/%-d'" %}
 
 {% for day in talks_by_day %}
 

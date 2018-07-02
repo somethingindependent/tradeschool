@@ -16,6 +16,10 @@ $navy-color: #0A2A63 !default;
 $aqua-color: #06BCA1 !default;
 $grey-color: #D0CFCD !default;
 $brown-color: #503629 !default;
+$teal-color: #007167 !default;
+$orange-color: #EF8B22 !default;
+
+$dark-navy-color:       #001A70 !default;
 
 
 // Define defaults for each variable.
@@ -30,7 +34,7 @@ $heading-font-weight: 600 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #001A70 !default;
+$text-color:       $brown-color !default;
 $background-color: #fdfdfd !default;
 $brand-color:      #001A70 !default;
 
