@@ -5,6 +5,7 @@ plugins:
   - jekyll-redirect-from
 future: true
 permalink: pretty
+timezone: "-600"
 google_analytics: "UA-111929567-1"
 # SEO / Sitemap
 url: "http://trade-school.co"

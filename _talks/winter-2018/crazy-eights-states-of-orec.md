@@ -18,7 +18,7 @@ Outdoor recreation has undergone a dramatic transformation from an undervalued i
 - [Tom Adams, Utah](http://business.utah.gov/programs/outdoor/)
 - [Michael Snyder, Vermont](http://fpr.vermont.gov/VOREC)
 - [Jon Snyder, Washington](https://www.governor.wa.gov/issues/issues/economy/outdoor-recreation)
-- [Domenic Bravo, Wyoming](http://wyoparks.state.wy.us/index.php/learn/wyoming-outdoor-recreation-task-force)
+- [Domenic Bravo, Wyoming](http://wyoparks.state.wy.us/WYOutdoorRecreation/index.php/about)
 
 ### Moderator
 - [Chuck Sullivan, Something Independent](http://www.somethingindependent.com/)
