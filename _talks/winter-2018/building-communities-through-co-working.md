@@ -2,6 +2,8 @@
 date: 2018-01-25T13:00:00-08:00
 date_end: 2018-01-25T14:30:00-08:00
 title: "Co-working: A New Way to Build Communities"
+redirect_from:
+- "/building-communities-through-co-working/"
 ---
 
 ### With [Wayfinder Co-op](https://wayfinder-coop.com/), [WeWork](https://www.wework.com/buildings/tabor-center--denver--CO), [Bend Outdoor Worx](http://bendoutdoorworx.com/), and [FACTORY](https://factorycoworking.com/)

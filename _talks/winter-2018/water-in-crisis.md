@@ -2,6 +2,8 @@
 date: 2018-01-26T10:30:00-08:00
 date_end: 2018-01-26T11:30:00-08:00
 title: "Water in Crisis: Will the Outdoor Industry Take the Lead?"
+redirect_from:
+  - "/water-in-crisis/"
 ---
 
 ### With [American Whitewater](https://www.americanwhitewater.org/), [The Nature Conservancy](https://www.nature.org/), [Pikes Peak Outdoor Recreation Alliance](http://ppora.org/) & [Angler’s Covey](http://www.anglerscovey.com/), [Gates Family Foundation](http://www.gatesfamilyfoundation.org/),[Colorado Parks & Wildlife](http://cpw.state.co.us/), [TAP-IN](http://tapinco.org/)

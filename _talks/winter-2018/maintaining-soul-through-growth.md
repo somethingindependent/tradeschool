@@ -2,6 +2,8 @@
 date: 2018-01-24T14:00:00-08:00
 date_end: 2018-01-24T15:00:00-08:00
 title: "Maintaining Soul through Growth"
+redirect_from:
+- "/maintaining-soul-through-growth/"
 ---
 
 ### With Oskar Blues, Topo Designs, and Burton

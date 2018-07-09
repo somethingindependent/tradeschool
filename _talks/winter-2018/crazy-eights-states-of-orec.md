@@ -2,6 +2,8 @@
 date: 2018-01-25T10:00:00-08:00
 date_end: 2018-01-25T12:00:00-08:00
 title: 'Crazy 8s: The State(s) of Outdoor Recreation'
+redirect_from:
+- "/crazy-eights-states-of-orec/"
 ---
 
 ### With CO, MT, NC, OR, UT, VT, WA, and WY

@@ -2,6 +2,8 @@
 date: 2018-01-26T08:00:00-08:00
 date_end: 2018-01-26T10:00:00-08:00
 title: "Inclusion in the Outdoors"
+redirect_from:
+- "/inclusion-in-the-outdoors/"
 ---
 
 ### With [Next 100 Coalition](http://next100coalition.org/)

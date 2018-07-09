@@ -2,6 +2,8 @@
 date: 2018-01-28T11:00:00-08:00
 date_end: 2018-01-28T12:00:00-08:00
 title: "Idaho Springs: Mining the Future"
+redirect_from:
+- "/idaho-springs-mining-future/"
 ---
 
 ### With [Something Independent OutPost](http://www.somethingindependent.com/the-si-outpost/), [Rapidgrass Bluegrass Festival](http://rapidgrassfestival.com/), [Argo Gold Mine and Mill](http://historicargotours.com/) 

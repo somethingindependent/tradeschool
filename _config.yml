@@ -4,6 +4,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 future: true
+permalink: pretty
 google_analytics: "UA-111929567-1"
 # SEO / Sitemap
 url: "http://trade-school.co"

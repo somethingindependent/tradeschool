@@ -2,6 +2,8 @@
 date: 2018-01-27T11:30:00-08:00
 date_end: 2018-01-27T12:30:00-08:00
 title: "Tools of the Trade — Juicy Bits Live Podcast"
+redirect_from:
+  - "/tools-of-the-trade/"
 ---
 
 ### With [Coalition Snow](https://www.coalitionsnow.com/) and [BoldBrew](https://www.boldbrewteam.com/)

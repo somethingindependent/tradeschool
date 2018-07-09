@@ -2,6 +2,8 @@
 date: 2018-01-25T15:00:00-08:00
 date_end: 2018-01-25T16:00:00-08:00
 title: "Energy & The Outdoors"
+redirect_from:
+- "/energy-and-the-outdoors/"
 ---
 
 ### With [Noble Energy](https://www.nblenergy.com/), [Colorado Outdoor Recreation Industry Office](https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/), [The Greenway Foundation](http://www.thegreenwayfoundation.org/), [Volunteers for Outdoor Colorado](http://www.voc.org/), [Jefferson County Economic Development Corporation](http://jeffcoedc.org/), and [Americas for Conservation + the Arts](http://www.americasforconservation.org/)
