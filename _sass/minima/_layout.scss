@@ -180,6 +180,13 @@
     width: 33%;
     display: inline-block;
   }
+
+  @include media-query($on-palm) {
+    img {
+      width: 80%;
+      margin: 0 10%;
+    }
+  }
 }
 
 /**
