@@ -1,26 +1,21 @@
 <div class="artists-container">
+  {% assign artists = site.data.artists | where_exp: "item", "item.edition == site.current_edition" %}
+  {%- for artist in artists -%}
   <div class="artist-cell">
-    <a href="http://www.andrea-slusarski-art.com/" class="artist-photo" target="_blank">
-      <img src="{{ "/assets/andrea-slusarski-headshot.jpg" | relative_url }}" alt="Andrea Slusarski" />
+    <a href="{{ artist.url }}" class="artist-photo" target="_blank">
+      <img src="{{ artist.headshot_path | relative_url }}" alt="{{ artist.first_name }} {{ artist.last_name }}" />
     </a>
     <div class="artist-description">
-      <h3><a href="http://www.andrea-slusarski-art.com/" target="_blank">Andrea Slusarski</a></h3>
+      <h3><a href="{{ artist.url }}" target="_blank">{{ artist.first_name }}  {{ artist.last_name }}</a> (<a href="http://instagram.com/{{ artist.instagram_handle }}">@{{ artist.instagram_handle }}</a>)</h3>
+      <p>{{ artist.bio }}</p>
       <p>
-        Andrea Slusarski is a painter/drawer and educator from Denver, Colorado. Like many midwesterners, she left the flat land and found herself in the mountains full of lines. Drawing from the landscapes she surrounds herself in, her work aims to capture the place of exploration and feeling of nature. These are captured in the lines, colors & words woven throughout her mixed media imagery.
+        <em>
+          {{ artist.quote }}
+        </em>
       </p>
     </div>
   </div>
-
-  <div class="artist-cell">
-    <a href="http://www.andrea-slusarski-art.com/" class="artist-photo" target="_blank">
-      <img src="{{ "/assets/andrea-slusarski-wide-open.jpg" | relative_url }}" alt="Wide & Open by Andrea Slusarski" />
-    </a>
-    <div class="artist-description">
-      <p>
-        “Ever since I can imagine, I’ve needed to be outside - adventuring, sketching, getting lost in the surroundings around me and in my drawings. Creating is my way of fully submerging myself into my world. My art is inspired by the simple connection I hold with nature and the feeling I try to preserve with every painting or drawing. I feel most alive when I am out in the wilderness, and even more so when I create.”
-      </p>
-    </div>
-  </div>
+  {%- endfor -%}
 </div>
 
 <h3 class="centered-copy">
