@@ -1,11 +1,6 @@
 ---
 - format: 1up
   items:
-  - name: Test
-    url: http:/www.google.com/
-    logo_path: "/assets/Messaging_AmazonPinpoint_LARGE.png"
-- format: 1up
-  items:
   - name: Colorado Outdoor Recreation Industry Office
     url: https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/
     logo_path: "/assets/logos/orec.png"
