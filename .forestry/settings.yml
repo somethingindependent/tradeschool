@@ -11,14 +11,6 @@ collections:
   label: Talks
   create: all
   default_front_matter_template: talks
-- path: _talks/summer-2018
-  label: Talks - Summer 2018
-  create: all
-  default_front_matter_template: talks-summer-2018
-- path: _talks/winter-2018
-  label: Talks - Winter 2018
-  create: all
-  default_front_matter_template: talks-winter-2018
 - path: ''
   label: Pages
   create: all
