@@ -1,5 +1,5 @@
 <div class="content-section-header">
-  <a name="partners">Partners</a>
+  <a name="partners">Thank you</a>
 </div>
 <div class="wrapper">
   <div class="content-section">
@@ -10,36 +10,19 @@
     </div>
 
     <p class="centered-copy">
-      Made possible through the support of our hard-working partners:
+      Trade School is presented in partnership with and with support from:
     </p>
 
     <div class="sponsor-logos">
-      <div class="logo-row-1up">
-        <a href="https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/" target="_blank">
-          <img src="{{ "/assets/logos/orec.png" | relative_url }}" alt="Colorado Outdoor Recreation Industry Office" />
-        </a>
-      </div>
-      <div class="logo-row-1up">
-        <a href="http://www.aloftdenverdowntown.com/" target="_blank">
-          <img src="{{ "/assets/logos/aloft-denver-downtown.jpg" | relative_url }}" alt="Aloft Denver Downtown" />
-        </a>
-      </div>
-      <div class="logo-row-2up">
-        <a href="https://www.thepublicworks.biz/" target="_blank">
-          <img src="{{ "/assets/logos/public-works.png" | relative_url }}" alt="The Public Works" />
-        </a>
-        <a href="https://getharmonic.com/" target="_blank">
-          <img src="{{ "/assets/logos/harmonic.png" | relative_url }}" alt="Harmonic Media" />
-        </a>
-      </div>
-      <div class="logo-row-2up">
-        <a href="https://meetatct.com/" target="_blank">
-          <img src="{{ "/assets/logos/centertable.png" | relative_url }}" alt="CenterTable" />
-        </a>
-        <a href="http://www.inlandplanning.com/" target="_blank">
-          <img src="{{ "/assets/logos/inland-planning.png" | relative_url }}" alt="Inland Planning" />
-        </a>
-      </div>
+      {%- for group in site.data.partners -%}
+        <div class="logo-row-{{ group.format }}">
+        {% for partner in group.items -%}
+          <a href="{{ partner.url }}" title="{{ partner.name }}" target="_blank">
+            <img src="{{ partner.logo_path }}" alt="{{ partner.name }}" />
+          </a>
+        {%- endfor -%}
+        </div>
+      {%- endfor -%}
     </div>
     <p class="sponsor-copy">
       With special thanks to the <a href="https://outdoorindustry.org/">Outdoor Industry Association</a> and <a href="https://www.outdoorretailer.com/">Outdoor Retailer</a>.
