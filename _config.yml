@@ -45,3 +45,8 @@ defaults:
       type: talks
     values:
       edition: "winter-2018"
+  - scope:
+      path: "_talks/summer-2018"
+      type: talks
+    values:
+      edition: "summer-2018"
