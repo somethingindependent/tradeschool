@@ -1,26 +1,27 @@
+---
 - format: 1up
   items:
   - name: Colorado Outdoor Recreation Industry Office
     url: https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/
-    logo_path: /assets/logos/orec.png
+    logo_path: "/assets/logos/orec.png"
 - format: 1up
   items:
   - name: Aloft Hotel Denver Downtown
     url: http://www.aloftdenverdowntown.com/
-    logo_path: /assets/logos/aloft-denver-downtown.jpg
+    logo_path: "/assets/logos/aloft-denver-downtown.jpg"
 - format: 2up
   items:
   - name: The Public Works
     url: https://www.thepublicworks.biz/
-    logo_path: /assets/logos/public-works.png
+    logo_path: "/assets/logos/public-works.png"
   - name: Harmonic Media
     url: https://getharmonic.com/
-    logo_path: /assets/logos/harmonic.png
+    logo_path: "/assets/logos/harmonic.png"
 - format: 2up
   items:
   - name: CenterTable
     url: https://meetatct.com/
-    logo_path: /assets/logos/centertable.png
-  - name: Inland Planning Media
+    logo_path: "/assets/logos/centertable.png"
+  - name: Inland Planning
     url: http://www.inlandplanning.com/
-    logo_path: /assets/logos/inland-planning.png
+    logo_path: "/assets/logos/inland-planning.png"
