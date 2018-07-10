@@ -3,8 +3,10 @@ image: assets/trade-school-ig.png
 last_modified_at: now
 layout: talk
 edition: summer-2018
-title: summer-2018/confluence-rivers-economic-restoration.md
-date: 2018-07-10 14:52:16 +0000
+title: The Confluence of Rivers & Economic Restoration
+date: 2018-07-23 17:00:00 +0000
+date_end: ''
+redirect_from: []
 ---
 ### The Confluence of Rivers & Economic Restoration
 

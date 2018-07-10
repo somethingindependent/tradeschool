@@ -1,0 +1,25 @@
+---
+label: talks-_talks-winter-2018
+hide_body: false
+is_partial: false
+fields:
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: assets/trade-school-ig.png
+- name: last_modified_at
+  label: Last modified at
+  type: text
+  hidden: false
+  default: now
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: talk
+- name: edition
+  label: Edition
+  type: text
+  hidden: false
+  default: winter-2018
