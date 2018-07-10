@@ -1,5 +1,5 @@
 ---
-label: Winter 2018 Talks
+label: Summer 2018 Talks
 hide_body: false
 is_partial: false
 fields:
@@ -49,4 +49,4 @@ fields:
   label: Edition
   type: text
   hidden: false
-  default: 'winter-2018'
+  default: 'summer-2018'
