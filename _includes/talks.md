@@ -8,6 +8,15 @@ All sessions take place live in the lobby of the Aloft Hotel located at 800 15th
 ## SESSION SCHEDULE COMING SOON!
 {% endif %}
 
+{% for day in talks_by_day %}
+
+## {{ day.items.first.date | date: '%A, %-m/%-d'" }}
+{% for talk in day.items -%}
+- [{{ talk.date | date: "%-I:%M %P" }} &mdash; {{ talk.title }}]({{ talk.url }})
+{% endfor -%}
+{%- endfor -%}
+
+
 ### Use Google Calendar, iCal, or Outlook?
 Subscribe to the full schedule and make it easy to look up all of the details on-the-go.
 {% assign webcal_url = "schedule.ics" | absolute_url | replace: "http", "webcal" %}
@@ -20,11 +29,3 @@ Subscribe to the full schedule and make it easy to look up all of the details on
   <i class="fa fa-calendar" aria-hidden="true"></i>
   Add to Google Calendar
 </a>
-
-{% for day in talks_by_day %}
-
-## {{ day.items.first.date | date: '%A, %-m/%-d'" }}
-{% for talk in day.items -%}
-- [{{ talk.date | date: "%-I:%M %P" }} &mdash; {{ talk.title }}]({{ talk.url }})
-{% endfor -%}
-{%- endfor -%}
