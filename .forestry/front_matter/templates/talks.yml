@@ -1,5 +1,5 @@
 ---
-label: talks
+label: Talks
 hide_body: false
 is_partial: false
 fields:
@@ -8,16 +8,23 @@ fields:
   type: datetime
   hidden: false
   default: ''
+  config:
+    display_utc: true
+    required: true
 - name: date_end
   label: Date end
   type: datetime
   hidden: false
   default: ''
+  config:
+    display_utc: true
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: redirect_from
   label: Redirect from
   type: list
@@ -38,3 +45,8 @@ fields:
   type: text
   hidden: false
   default: talk
+- name: edition
+  label: Edition
+  type: text
+  hidden: false
+  default: ''
