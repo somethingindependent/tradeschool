@@ -12,11 +12,11 @@ This session brings four of the finalists from Camber Outdoor’s annual Pitchfe
 
 ### Speakers
 
-* Justine Barone, Gearo
-* Kelly Waters, Western Rise
-* Mina Yoo, Heroclip
-* Niki Koubourlis, Bold Betties
+* [Justine Barone, Gearo](https://www.linkedin.com/in/justinesbarone/)
+* [Kelly Watters, Western Rise](https://www.linkedin.com/in/kelly-watters-3b872a5a/)
+* [Mina Yoo, Heroclip](https://www.linkedin.com/in/minayoo/)
+* [Niki Koubourlis, Bold Betties](https://www.linkedin.com/in/nikikoubourlis/)
 
 ### Moderator:
 
-Amy Kemp, Mountaintop Media/Camber Outdoors
+[Amy Kemp, Mountaintop Media/Camber Outdoors](https://www.linkedin.com/in/amymkemp/)
