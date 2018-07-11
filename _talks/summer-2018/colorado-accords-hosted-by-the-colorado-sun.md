@@ -22,4 +22,4 @@ Join four of the state outdoor recreation leaders discuss their plan to save Ame
 
 ### Moderator:
 
-* Jason Blevins, Colorado Sun
+* [Jason Blevins, Colorado Sun](https://www.linkedin.com/in/jason-blevins-8250918/)
