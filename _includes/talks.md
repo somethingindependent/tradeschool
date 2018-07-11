@@ -14,7 +14,7 @@ All sessions take place live in the lobby of the Aloft Hotel located at 800 15th
 {% for talk in day.items -%}
 - [{{ talk.date | date: "%-I:%M %P" }} &mdash; {{ talk.title }}]({{ talk.url }})
 {% endfor -%}
-{%- endfor -%}
+{%- endfor %}
 
 
 ### Use Google Calendar, iCal, or Outlook?
