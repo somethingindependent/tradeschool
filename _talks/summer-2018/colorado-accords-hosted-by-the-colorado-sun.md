@@ -11,14 +11,15 @@ published: false
 ---
 Join four of the state outdoor recreation leaders discuss their plan to save America and rescue the world through outdoor play. This session is a deep dive into the Colorado Accords and the work ahead to make them successful.
 
-###   
-Panelists:
+### 
 
-* Luis Benitez, Colorado Outdoor Recreation Industry Office 
-* Domenic Bravo, Wyoming Outdoor Recreation Office & Division of State Parks
-* Tom Adams, Utah Office of Outdoor Recreation
-* Cailin O’Brien-Feeney, Oregon Office of Outdoor Recreation
+### Panelists:
 
-### Moderator: 
+* [Luis Benitez, Colorado Outdoor Recreation Industry Office](https://www.linkedin.com/in/luisguillermobenitez/)
+* [Domenic Bravo, Wyoming Outdoor Recreation Office & Division of State Parks](https://www.linkedin.com/in/domenic-bravo-37354041/)
+* [Tom Adams, Utah Office of Outdoor Recreation](https://www.linkedin.com/in/thomas-adams-9443b710/)
+* [Cailin O’Brien-Feeney, Oregon Office of Outdoor Recreation](http://www.thecreswellchronicle.com/story/2018/06/14/outdoors/oregon-parks-and-recreation-department-hires-first-director-for-office-of-outdoor-recreation/678.html)
+
+### Moderator:
 
 * Jason Blevins, Colorado Sun
