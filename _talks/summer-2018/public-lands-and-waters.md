@@ -13,11 +13,11 @@ There are 640 million acres of public lands and approximately 3.6 million miles 
 
 ### Panelists:
 
-* Nathan Fey, Colorado River Stewardship Program, American Whitewater
-* Rachel Vandervoort, Director, Office of Outdoor Recreation at State of Montana
-* Bob Randall, Colorado Department of Natural Resources
-* Rob Parkins, Backcountry Hunters and Anglers
+* [Nathan Fey, Colorado River Stewardship Program, American Whitewater](https://www.linkedin.com/in/nathanfey/)
+* [Rachel Vandervoort, Director, Office of Outdoor Recreation at State of Montana](https://www.linkedin.com/in/rachel-vandevoort-8b03a534/)
+* [Bob Randall, Colorado Department of Natural Resources](https://www.linkedin.com/in/bob-randall-100136158/)
+* [Rob Parkins, Backcountry Hunters and Anglers](https://www.linkedin.com/in/robert-parkins-0b14b317/)
 
 ### Moderator
 
-* Jason Blevins, Colorado Sun
+* [Jason Blevins, Colorado Sun]()
