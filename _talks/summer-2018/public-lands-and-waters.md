@@ -4,7 +4,7 @@ image: assets/trade-school-ig.png
 last_modified_at: now
 layout: talk
 edition: summer-2018
-date: 2018-07-11 00:00:00 +0000
+date: 2018-07-25 05:00:03 +0000
 date_end: ''
 redirect_from: []
 published: false
