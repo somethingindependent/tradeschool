@@ -13,7 +13,7 @@ A panel that explores the outdoors as a healing environment and path to wellness
 
 ### Panelists:
 
-* Mackenzie McGrath, First Descents
-* Shannon Galpin, Endangered Activism
-* Madeline Sorkin, Climbing Grief Fund
-* Janie Dial, Wylder Goods
+* [Mackenzie McGrath, First Descents](https://www.linkedin.com/in/mackenzie-mcgrath-925b316/)
+* [Shannon Galpin, Endangered Activism](https://endangeredactivism.org/the-team-1/)
+* [Madaline Sorkin, Climbing Grief Fund](https://www.linkedin.com/in/madaleine-sorkin-5520121a/)
+* [Janie Dial, Wylder Goods](https://www.linkedin.com/in/jaineedial/)
