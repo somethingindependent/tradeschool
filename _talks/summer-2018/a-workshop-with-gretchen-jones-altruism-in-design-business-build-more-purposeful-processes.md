@@ -8,5 +8,4 @@ edition: summer-2018
 date: 2018-07-24 08:30:05 +0000
 date_end: ''
 redirect_from: []
-published: false
 ---
