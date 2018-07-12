@@ -19,4 +19,4 @@ This session brings four of the finalists from Camber Outdoor’s annual Pitchfe
 
 ### Moderator:
 
-[Amy Kemp, Mountaintop Media/Camber Outdoors](https://www.linkedin.com/in/amymkemp/)
+* [Amy Kemp, Mountaintop Media/Camber Outdoors](https://www.linkedin.com/in/amymkemp/)
