@@ -348,11 +348,16 @@
     width: 70%;
   }
 
-  .logo-row-1up, .logo-row-2up, .logo-row-3up {
+  .logo-row-1up, .logo-row-2up, .logo-row-3up, .logo-row-4up {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+
+  .logo-row-4up a {
+    width: -webkit-calc(25% - (#{$spacing-unit}));
+    width:         calc(25% - (#{$spacing-unit}));
   }
 
   .logo-row-3up a {
