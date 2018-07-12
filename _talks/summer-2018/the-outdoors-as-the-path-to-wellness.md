@@ -19,4 +19,4 @@ A panel that explores the outdoors as a healing environment and path to wellness
 
 ### Moderator
 
-[Annelise Loevlie, Icelantic Skis](https://www.linkedin.com/in/annelise-loevlie-3325555/)
+* [Annelise Loevlie, Icelantic Skis](https://www.linkedin.com/in/annelise-loevlie-3325555/)
