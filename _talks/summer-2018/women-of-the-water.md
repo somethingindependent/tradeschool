@@ -9,3 +9,13 @@ date_end: ''
 redirect_from: []
 published: false
 ---
+This session is about the stories and journey of powerful women of the water from athlete to advocate to entrepreneur, highlighting how these women are paving the way and pushing the limits on and off the water. 
+
+### Panelists: 
+
+* [Darcy Gaechter, Small World Adventures](https://smallworldadventures.com/team/darcy-gaechter/)
+
+###   
+Moderator: 
+
+[Kim Beekman, Backbone Media](https://www.linkedin.com/in/kimberly-beekman-b78b504/)
