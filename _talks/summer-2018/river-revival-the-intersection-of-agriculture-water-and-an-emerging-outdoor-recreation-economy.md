@@ -8,7 +8,6 @@ edition: summer-2018
 date: 2018-07-23 13:00:56 +0000
 date_end: ''
 redirect_from: []
-published: false
 ---
 ### Speakers: 
 
