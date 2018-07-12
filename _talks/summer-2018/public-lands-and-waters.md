@@ -19,4 +19,4 @@ There are 640 million acres of public lands and approximately 3.6 million miles 
 
 ### Moderator
 
-* [Jason Blevins, Colorado Sun]()
+* [Jason Blevins, Writer & Co-Founder, Colorado Sun]()
