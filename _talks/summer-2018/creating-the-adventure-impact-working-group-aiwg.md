@@ -7,7 +7,6 @@ edition: summer-2018
 date: 2018-07-26 08:30:08 +0000
 date_end: ''
 redirect_from: []
-published: false
 ---
 For many of us, we’ve talked about how adventure has changed our lives and those around us. We’ve spoken on panels, around campfires, written blogs, and shared inspiring images that support this reality: Adventure creates positive change.
 
