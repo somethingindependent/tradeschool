@@ -6,7 +6,7 @@ layout: default
   <section class="content-section intro">
     {% include intro-images.html %}
     {% capture intro %}
-      {%- include intro.md %}
+      {%- include_relative fragments/intro.md %}
     {% endcapture %}
     {{ intro | markdownify }}
     {% include mailchimp-ts.html %}
@@ -29,7 +29,7 @@ layout: default
 <div class="wrapper">
   <section class="content-section">
     {% capture talks %}
-      {%- include talks.md %}
+      {%- include_relative fragments/talks.md %}
     {% endcapture %}
     {{ talks | markdownify }}
   </section>
@@ -40,8 +40,7 @@ layout: default
 </div>
 <div class="wrapper">
   <section class="content-section">
-
-    {% include artists.html %}
+    {% include_relative fragments/artists.html %}
   </section>
 </div>
 
