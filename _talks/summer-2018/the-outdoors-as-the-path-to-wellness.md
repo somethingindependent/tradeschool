@@ -16,3 +16,7 @@ A panel that explores the outdoors as a healing environment and path to wellness
 * [Shannon Galpin, Endangered Activism](https://endangeredactivism.org/the-team-1/)
 * [Madaline Sorkin, Climbing Grief Fund](https://www.linkedin.com/in/madaleine-sorkin-5520121a/)
 * [Jainee Dial, Wylder Goods](https://www.linkedin.com/in/jaineedial/)
+
+### Moderator
+
+[Annelise Loevlie, Icelantic Skis](https://www.linkedin.com/in/annelise-loevlie-3325555/)
