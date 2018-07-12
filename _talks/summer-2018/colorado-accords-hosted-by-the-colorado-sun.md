@@ -7,7 +7,6 @@ edition: summer-2018
 date: 2018-07-26 11:00:03 +0000
 date_end: ''
 redirect_from: []
-published: false
 ---
 Join four of the state outdoor recreation leaders discuss their plan to save America and rescue the world through outdoor play. This session is a deep dive into the Colorado Accords and the work ahead to make them successful.
 
