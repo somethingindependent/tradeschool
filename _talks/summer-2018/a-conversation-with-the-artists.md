@@ -7,7 +7,6 @@ edition: summer-2018
 date: 2018-07-25 15:00:47 +0000
 date_end: ''
 redirect_from: []
-published: false
 ---
 ### Panelists: 
 
