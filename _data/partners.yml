@@ -11,7 +11,7 @@
     logo_path: "/assets/logos/aloft-denver-downtown.jpg"
   - name: Colorado State University
     url: https://www.colostate.edu/
-    logo_path: "/assets/csu.png"
+    logo_path: "/assets/logos/csu.png"
 - format: 2up
   items:
   - name: The Public Works
