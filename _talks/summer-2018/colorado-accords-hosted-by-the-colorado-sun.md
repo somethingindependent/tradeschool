@@ -1,5 +1,5 @@
 ---
-title: Colorado Accords hosted by the Colorado Sun
+title: The State of the Colorado Accords hosted by the Colorado Sun
 image: assets/trade-school-ig.png
 last_modified_at: now
 layout: talk
