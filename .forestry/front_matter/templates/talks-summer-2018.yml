@@ -51,8 +51,8 @@ fields:
   hidden: false
   default: summer-2018
 pages:
-- _talks/summer-2018/women-of-the-water.md
 - _talks/summer-2018/women-writers-of-the-west.md
+- _talks/summer-2018/women-of-the-water.md
 - _talks/summer-2018/colorado-accords-hosted-by-the-colorado-sun.md
 - _talks/summer-2018/river-revival-the-intersection-of-agriculture-water-and-an-emerging-outdoor-recreation-economy.md
 - _talks/summer-2018/a-conversation-with-the-artists.md

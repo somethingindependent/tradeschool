@@ -18,4 +18,4 @@ This session is about the stories and journey of powerful women of the water fro
 ###   
 Moderator: 
 
-[Kim Beekman, Backbone Media](https://www.linkedin.com/in/kimberly-beekman-b78b504/)
+* [Kim Beekman, Backbone Media](https://www.linkedin.com/in/kimberly-beekman-b78b504/)
