@@ -6,12 +6,12 @@
     logo_path: "/assets/logos/orec.png"
 - format: 2up
   items:
-  - name: Colorado State University
-    url: https://www.colostate.edu/
-    logo_path: "/assets/csu.png"
   - name: Aloft Hotel Denver Downtown
     url: http://www.aloftdenverdowntown.com/
     logo_path: "/assets/logos/aloft-denver-downtown.jpg"
+  - name: Colorado State University
+    url: https://www.colostate.edu/
+    logo_path: "/assets/csu.png"
 - format: 2up
   items:
   - name: The Public Works
