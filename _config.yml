@@ -50,7 +50,3 @@ defaults:
       type: talks
     values:
       edition: "summer-2018"
-  - scope:
-      path: "fragments"
-    values:
-      published: false
