@@ -4,8 +4,11 @@
   - name: Colorado Outdoor Recreation Industry Office
     url: https://choosecolorado.com/programs-initiatives/outdoor-recreation-industry-office/
     logo_path: "/assets/logos/orec.png"
-- format: 1up
+- format: 2up
   items:
+  - name: Colorado State University
+    url: https://www.colostate.edu/
+    logo_path: "/assets/csu.png"
   - name: Aloft Hotel Denver Downtown
     url: http://www.aloftdenverdowntown.com/
     logo_path: "/assets/logos/aloft-denver-downtown.jpg"
