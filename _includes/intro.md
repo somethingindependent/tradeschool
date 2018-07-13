@@ -4,5 +4,3 @@ Trade School returns alongside Outdoor Retailer with four-days of inspired discu
 
 Live from the lobby of the Aloft Hotel
 (800 15th St. @ Stout | Downtown Denver)
-
-**SESSION SCHEDULE & EXHIBIT INFORMATION COMING SOON!**
