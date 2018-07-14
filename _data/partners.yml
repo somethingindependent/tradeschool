@@ -12,7 +12,7 @@
   - name: Colorado State University
     url: https://www.colostate.edu/
     logo_path: "/assets/logos/csu.png"
-- format: 2up
+- format: 3up
   items:
   - name: Business for Water Stewardship
     url: ''
