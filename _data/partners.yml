@@ -14,6 +14,9 @@
     logo_path: "/assets/logos/csu.png"
 - format: 2up
   items:
+  - name: Business for Water Stewardship
+    url: ''
+    logo_path: "/assets/BWSlogo.png"
   - name: The Public Works
     url: https://www.thepublicworks.biz/
     logo_path: "/assets/logos/public-works.png"
