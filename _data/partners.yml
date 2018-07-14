@@ -15,7 +15,7 @@
 - format: 3up
   items:
   - name: Business for Water Stewardship
-    url: ''
+    url: http://businessforwater.org/
     logo_path: "/assets/BWSlogo.png"
   - name: The Public Works
     url: https://www.thepublicworks.biz/
