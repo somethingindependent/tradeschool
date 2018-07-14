@@ -7,13 +7,13 @@ edition: summer-2018
 date: 2018-07-25 11:00:00 +0000
 date_end: ''
 redirect_from: []
+
 ---
 There are 640 million acres of public lands and approximately 3.6 million miles of streams in the U.S. Many access these lands. Some make a livelihood from it, some recreate, some visit sacred homelands. Each user has a unique perspective and story to tell about the value and meaning of these public places. Often, these users meet on the land and water and their stories collide. Join us to hear the tales.
 
 ### Panelists:
 
 * [Nathan Fey, Colorado River Stewardship Program, American Whitewater](https://www.linkedin.com/in/nathanfey/)
-* [Rachel Vandervoort, Director, Office of Outdoor Recreation at State of Montana](https://www.linkedin.com/in/rachel-vandevoort-8b03a534/)
 * [Bob Randall, Colorado Department of Natural Resources](https://www.linkedin.com/in/bob-randall-100136158/)
 * [Rob Parkins, Backcountry Hunters and Anglers](https://www.linkedin.com/in/robert-parkins-0b14b317/)
 
