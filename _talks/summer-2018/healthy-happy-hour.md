@@ -7,7 +7,6 @@ edition: summer-2018
 date: 2018-07-24 16:00:48 +0000
 date_end: 2018-07-24 18:00:00 +0000
 redirect_from: []
-published: false
 
 ---
 Looking to network at the end of the trade show on Tuesday? Come join us at the Massive Impact Healthy Happy Hour. Free to the public and open to all, this event serves as a space to network and connect without alcohol present. Whether sober, sober supportive, sober curious, or just looking to meet new people, we'd love to see you there.
