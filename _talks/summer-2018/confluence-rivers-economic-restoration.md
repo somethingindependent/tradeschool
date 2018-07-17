@@ -16,3 +16,7 @@ Rivers are the lifeblood of the west and communities have gathered around them t
 * [David Dragoo, Mayfly Outdoors](https://mayflyoutdoors.com/)
 * [Robin Brown, Grand Junction Economic Partnership](https://www.linkedin.com/in/robin-brown-31876912b/)
 * [John Giantonio, VisitCasper](https://visitcasper.com/about/john-giantonio/)
+
+### Moderator:
+
+* [Chris Castilian, Great Outdoors Colorado](http://www.goco.org/about-us/staff/chris-castilian)
