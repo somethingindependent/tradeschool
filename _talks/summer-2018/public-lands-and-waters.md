@@ -1,6 +1,6 @@
 ---
 title: Public Lands and Waters
-image: assets/trade-school-ig.jpg
+image: assets/trade-school-ig.png
 last_modified_at: now
 layout: talk
 edition: summer-2018
@@ -16,6 +16,7 @@ There are 640 million acres of public lands and approximately 3.6 million miles 
 * [Nathan Fey, Colorado River Stewardship Program, American Whitewater](https://www.linkedin.com/in/nathanfey/)
 * [Bob Randall, Colorado Department of Natural Resources](https://www.linkedin.com/in/bob-randall-100136158/)
 * [Rob Parkins, Backcountry Hunters and Anglers](https://www.linkedin.com/in/robert-parkins-0b14b317/)
+* [Pam Eaton, The Wilderness Society](https://wilderness.org/bios/staff/pam-eaton) 
 
 ### Moderator
 
