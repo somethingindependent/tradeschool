@@ -1,6 +1,6 @@
 ---
 title: Women Writers of the West - a conversation with Tracy Ross
-image: assets/trade-school-ig.png
+image: assets/trade-school-ig.jpg
 last_modified_at: now
 layout: talk
 edition: summer-2018

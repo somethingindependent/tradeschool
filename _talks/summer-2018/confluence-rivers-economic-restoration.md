@@ -1,5 +1,5 @@
 ---
-image: assets/trade-school-ig.png
+image: assets/trade-school-ig.jpg
 last_modified_at: now
 layout: talk
 edition: summer-2018

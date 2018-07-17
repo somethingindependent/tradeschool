@@ -1,7 +1,7 @@
 ---
 title: A workshop with Gretchen Jones - Altruism in Design & Business - Build More
   Purposeful Processes
-image: assets/trade-school-ig.png
+image: assets/trade-school-ig.jpg
 last_modified_at: now
 layout: talk
 edition: summer-2018

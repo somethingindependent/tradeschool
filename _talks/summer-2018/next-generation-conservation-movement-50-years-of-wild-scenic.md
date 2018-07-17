@@ -1,6 +1,6 @@
 ---
 title: Next Generation Conservation Movement – 50 Years of Wild & Scenic
-image: assets/trade-school-ig.png
+image: assets/trade-school-ig.jpg
 last_modified_at: now
 layout: talk
 edition: summer-2018
