@@ -19,6 +19,7 @@ Drought and diversions were crippling the Upper Colorado River, as well as the r
 * [Mely Whiting, Trout Unlimited](https://www.tu.org/staff/Western%20Water%20and%20Habitat%20Program/melywhiting)
 * [Lurline Curran, Former Grand County Manager](https://www.linkedin.com/in/lurline-curran-16691261/)
 * [Jack Bombardier, “Lower Upper” Colorado River Guide ](https://www.yampavalleyanglers.com/jack-bombardier.html)
+* [Paul Bruchez, Reeder Creek Ranch]( http://www.reedercreek.com/)
 
 ### Moderator:
 
