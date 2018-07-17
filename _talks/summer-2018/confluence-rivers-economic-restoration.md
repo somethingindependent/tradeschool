@@ -13,9 +13,10 @@ Rivers are the lifeblood of the west and communities have gathered around them t
 
 ### Speakers:
 
-* [David Dragoo, Mayfly Outdoors](https://mayflyoutdoors.com/)
-* [Robin Brown, Grand Junction Economic Partnership](https://www.linkedin.com/in/robin-brown-31876912b/)
-* [John Giantonio, VisitCasper](https://visitcasper.com/about/john-giantonio/)
+* David Dragoo, Mayfly Outdoors | [Colorado Outdoors Project](https://coloradooutdoors.co/) 
+* [Robin Brown](https://www.linkedin.com/in/robin-brown-31876912b/), Grand Junction Economic Partnership | [Riverfront at Las Colonias](https://riverfront.gjep.org/)
+
+  John Giantonio, VisitCasper | [Generation Casper](https://trib.com/news/local/casper/is-casper-s-economy-tied-to-quality-of-life-the/article_d3565b25-8fab-5d7c-a8d5-7d6207b942bc.html)
 
 ### Moderator:
 
