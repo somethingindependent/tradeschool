@@ -11,6 +11,6 @@ redirect_from: []
 ---
 ### Panelists
 
-* [**Phil Powers**](https://americanalpineclub.org/staff/), American Alpine Club
-* [**Aaron Mike**](http://pangaeamountainguides.com/guides.html), Pangaea Mountain Guides, Access Fund, and Natives Outdoors Athlete Ambassador
-* [**Jennifer Mizel**](http://www.jennifermizel.com/), The Medicine Woman Sessions
+* [Phil Powers](https://americanalpineclub.org/staff/), American Alpine Club
+* [Aaron Mike](http://pangaeamountainguides.com/guides.html), Pangaea Mountain Guides, Access Fund, and Natives Outdoors Athlete Ambassador
+* [Jennifer Mizel](http://www.jennifermizel.com/), The Medicine Woman Sessions
