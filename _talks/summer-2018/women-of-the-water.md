@@ -1,6 +1,6 @@
 ---
 title: Women of the Water
-image: assets/trade-school-ig.jpg
+image: assets/trade-school-ig.png
 last_modified_at: now
 layout: talk
 edition: summer-2018
@@ -14,6 +14,7 @@ This session is about the stories and journey of powerful women of the water fro
 ### Panelists:
 
 * [Darcy Gaechter, Small World Adventures](https://smallworldadventures.com/team/darcy-gaechter/)
+* [Kara Armano, Artemis](http://artemis.nwf.org/about-us/)
 
 ### Moderator:
 
