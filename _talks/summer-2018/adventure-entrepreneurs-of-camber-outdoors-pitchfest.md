@@ -1,5 +1,5 @@
 ---
-image: assets/trade-school-ig.jpg
+image: assets/trade-school-ig.png
 last_modified_at: now
 layout: talk
 edition: summer-2018
@@ -17,6 +17,7 @@ This session brings four of the finalists from Camber Outdoors annual Pitchfest 
 * [Kelly Watters, Western Rise](https://www.linkedin.com/in/kelly-watters-3b872a5a/)
 * [Mina Yoo, Heroclip](https://www.linkedin.com/in/minayoo/)
 * [Niki Koubourlis, Bold Betties](https://www.linkedin.com/in/nikikoubourlis/)
+* [Katy Hover-Smoot, Wild Rye](https://www.linkedin.com/in/katy-hover-smoot-07937975/)
 
 ### Moderator:
 
