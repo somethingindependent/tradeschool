@@ -1,7 +1,7 @@
 ---
 title: River Revival – The intersection of agriculture, water and an emerging outdoor
   recreation economy
-image: assets/trade-school-ig.png
+image: assets/trade-school-ig.jpg
 last_modified_at: now
 layout: talk
 edition: summer-2018
