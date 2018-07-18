@@ -50,3 +50,23 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- _talks/winter-2018/inclusion-in-the-outdoors.md
+- _talks/winter-2018/crazy-eights-states-of-orec.md
+- _talks/winter-2018
+- _talks/winter-2018/beers-after-school.md
+- _talks/winter-2018/school-spirit.md
+- _talks/summer-2018
+- _talks/summer-2018/adventure-entrepreneurs-of-camber-outdoors-pitchfest.md
+- _talks/winter-2018/backstage-winter-on-the-rocks.md
+- _talks/winter-2018/millennial-leaders.md
+- _talks/winter-2018/prescribe-adventure.md
+- _talks/winter-2018/water-in-crisis.md
+- _talks/winter-2018/maintaining-soul-through-growth.md
+- _talks/winter-2018/sentinels-of-the-shack.md
+- _talks/winter-2018/tools-of-the-trade.md
+- _talks/winter-2018/idaho-springs-mining-future.md
+- _talks/winter-2018/shifting-tides-art-industry-advocacy.md
+- _talks/winter-2018/building-communities-through-co-working.md
+- _talks/winter-2018/energy-and-the-outdoors.md
+- _talks/summer-2018/confluence-rivers-economic-restoration.md

@@ -10,7 +10,6 @@ collections:
 - path: _talks
   label: Talks
   create: all
-  default_front_matter_template: talks
 - path: ''
   label: Pages
   create: all
