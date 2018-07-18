@@ -16,7 +16,8 @@ There are 640 million acres of public lands and approximately 3.6 million miles 
 * [Nathan Fey, Colorado River Stewardship Program, American Whitewater](https://www.linkedin.com/in/nathanfey/)
 * [Bob Randall, Colorado Department of Natural Resources](https://www.linkedin.com/in/bob-randall-100136158/)
 * [Rob Parkins, Backcountry Hunters and Anglers](https://www.linkedin.com/in/robert-parkins-0b14b317/)
-* [Pam Eaton, The Wilderness Society](https://wilderness.org/bios/staff/pam-eaton) 
+* [Pam Eaton, The Wilderness Society](https://wilderness.org/bios/staff/pam-eaton)
+* [Kate Greenberg, National Young Farmers Coalition](http://www.youngfarmers.org/about/who-we-are/)
 
 ### Moderator
 
