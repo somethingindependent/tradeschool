@@ -13,4 +13,4 @@ redirect_from: []
 
 * [Phil Powers](https://americanalpineclub.org/staff/), American Alpine Club
 * [Aaron Mike](http://pangaeamountainguides.com/guides.html), Pangaea Mountain Guides, Access Fund, and Natives Outdoors Athlete Ambassador
-* [Jennifer Mizel](http://www.jennifermizel.com/now/), The Medicine Woman Sessions
+* [Jennifer Mizel](http://www.jennifermizel.com/), The Medicine Woman Sessions
