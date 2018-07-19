@@ -25,12 +25,12 @@
     logo_path: "/assets/logos/harmonic.png"
 - format: 3up
   items:
-  - name: Topo
-    url: https://topodesigns.com/
-    logo_path: "/assets/02 TD_logo_black.png"
   - name: CenterTable
     url: https://meetatct.com/
     logo_path: "/assets/logos/centertable.png"
+  - name: Topo
+    url: https://topodesigns.com/
+    logo_path: "/assets/02 TD_logo_black.png"
   - name: Inland Planning
     url: http://www.inlandplanning.com/
     logo_path: "/assets/logos/inland-planning.png"
