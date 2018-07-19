@@ -13,4 +13,4 @@ Looking to network at the end of the trade show on Tuesday? Come join us at the 
 
 The event is free to attend, but you'll be able to purchase a drink or a hat with all proceeds going to support [**_The Phoenix_**](https://www.facebook.com/thephoenixnational/).
 
-Hosted by [Safety Third Podcast](https://www.facebook.com/safetythirdpodcast/) with host [Paddy O'Connell](https://www.facebook.com/paddy.oconnell.986)! Presented by [Farm to Feet](https://www.facebook.com/FarmtoFeet/) and powered by [Brew Dr. Kombucha](https://www.facebook.com/brewdrkombucha/) and [Kate's Real Food](https://www.facebook.com/KatesRealFood/).
+Hosted by [Safety Third Podcast](https://www.facebook.com/safetythirdpodcast/) with host Paddy O'Connell! Presented by [Farm to Feet](https://www.facebook.com/FarmtoFeet/) and powered by [Brew Dr. Kombucha](https://www.facebook.com/brewdrkombucha/) and [Kate's Real Food](https://www.facebook.com/KatesRealFood/).
