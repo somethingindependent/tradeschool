@@ -11,8 +11,9 @@ redirect_from: []
 ---
 ### Panelists
 
-* [Nicole Gentile, Center for American Progress](https://www.americanprogress.org/about/staff/gentile-nicole/bio/)
-* [Hans Cole, Patagonia](https://www.linkedin.com/in/hans-cole-4a2aa819/)
+* [Nicole Gentile](https://www.americanprogress.org/about/staff/gentile-nicole/bio/), Center for American Progress
+* [Hans Cole](https://www.linkedin.com/in/hans-cole-4a2aa819/), Patagonia
+* [Nancy Smith](https://www.linkedin.com/in/nancy-smith-3677864/), The Nature Conservancy 
 
 ### Moderator
 
