@@ -1,5 +1,5 @@
 ---
-title: Next Generation Conservation Movement – 50 Years of Wild & Scenic
+title: Next Generation Conservation Movement – 50 Years of Wild & Scenic Rivers
 image: assets/trade-school-ig.jpg
 last_modified_at: now
 layout: talk
