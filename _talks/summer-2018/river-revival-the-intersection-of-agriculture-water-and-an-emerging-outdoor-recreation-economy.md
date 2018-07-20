@@ -12,7 +12,7 @@ redirect_from: []
 ---
 ### Description:
 
-Drought and diversions were crippling the Upper Colorado River, as well as the ranching and recreation that depended on its flows. But locals managed to overcome these challenges and band together—and even cooperated with Front Range water providers—to realize a large-scale victory for the Colorado’s headwaters. In 2016, the grass-roots effort secured nearly $30 million for two restoration projects that will improve the river’s health along a 30-mile stretch of the Upper Colorado. Read all about it in this article by 5280 writer and session moderator, Kelly Bastone -[ River Revival](https://www.5280.com/2017/04/river-revival/). In this panel discussion, stakeholders explain how they achieved their unprecedented win, and how other communities might follow suit.
+Drought and diversions were crippling the Upper Colorado River, as well as the ranching and recreation that depended on its flows. But locals managed to overcome these challenges and band together—and even cooperated with Front Range water providers—to realize a large-scale victory for the Colorado’s headwaters. In 2016, the grass-roots effort secured nearly $30 million for two restoration projects that will improve the river’s health along a 30-mile stretch of the Upper Colorado. Read all about it in this article by 5280 writer and session moderator, Kelly Bastone -[ **_River Revival_**](https://www.5280.com/2017/04/river-revival/). In this panel discussion, stakeholders explain how they achieved their unprecedented win, and how other communities might follow suit.
 
 ### Panelists:
 
