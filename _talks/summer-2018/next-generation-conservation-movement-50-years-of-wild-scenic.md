@@ -14,8 +14,7 @@ redirect_from: []
 * [Nicole Gentile](https://www.americanprogress.org/about/staff/gentile-nicole/bio/), Center for American Progress
 * [Hans Cole](https://www.linkedin.com/in/hans-cole-4a2aa819/), Patagonia
 * [Nancy Smith](https://www.linkedin.com/in/nancy-smith-3677864/), The Nature Conservancy
-* [P.T. Wood](http://cityofsalida.com/city-government/mayor/), Mayor, Salida, Colorado, Co-Fonder, Wood's High Mountain Distillers
 
 ### Moderator
 
-* [Josh Lohmer, Water Funder Initiative](https://www.linkedin.com/in/joshua-lohmer-9a024916/)
+* [P.T. Wood](http://cityofsalida.com/city-government/mayor/), Mayor, Salida, Colorado, Co-Fonder, Wood's High Mountain Distillers
