@@ -9,7 +9,7 @@ date_end: ''
 redirect_from: []
 
 ---
-In Trade School, we set out to explore the very nature of work. Nowhere have we found a clearer reflection of the strengthen, commitment and compassion that embodies ou definition of work - real work - than in Women, Water & the West. These are the themes that guided this unique, multi-medium artist collaboration for Trade School. Together, these three bold women have used their sketching, painting, and photography to create and collaborate on original work that is rooted in nature, trails, landscape, natural resources, and adventure. Hear more about what drives and inspires them during this session with the artists. 
+In Trade School, we set out to explore the very nature of work. Nowhere have we found a clearer reflection of the strengthen, commitment and compassion that embodies our definition of work - real work - than in Women, Water & the West. These are the themes that guided this unique, multi-medium artist collaboration for Trade School. Together, these three bold women have used their sketching, painting, and photography to create and collaborate on original work that is rooted in nature, trails, landscape, natural resources, and adventure. Hear more about what drives and inspires them during this session with the artists. 
 
 ### Panelists:
 
