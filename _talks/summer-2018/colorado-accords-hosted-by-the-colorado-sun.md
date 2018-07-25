@@ -1,5 +1,5 @@
 ---
-title: The State of the Colorado Accords hosted by the Colorado Sun
+title: The Confluence Accords – A Behind the Scenes Look with the Colorado Sun
 image: assets/trade-school-ig.jpg
 last_modified_at: now
 layout: talk
@@ -7,6 +7,7 @@ edition: summer-2018
 date: 2018-07-26 11:00:03 +0000
 date_end: ''
 redirect_from: []
+
 ---
 Join four of the state outdoor recreation leaders discuss their plan to save America and rescue the world through outdoor play. This session is a deep dive into the Colorado Accords and the work ahead to make them successful.
 
