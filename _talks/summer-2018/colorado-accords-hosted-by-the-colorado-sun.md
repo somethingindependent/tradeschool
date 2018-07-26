@@ -17,6 +17,7 @@ Join four of the state outdoor recreation leaders discuss their plan to save Ame
 * [Domenic Bravo, Wyoming Outdoor Recreation Office & Division of State Parks](https://www.linkedin.com/in/domenic-bravo-37354041/)
 * [Tom Adams, Utah Office of Outdoor Recreation](https://www.linkedin.com/in/thomas-adams-9443b710/)
 * [Cailin O’Brien-Feeney, Oregon Office of Outdoor Recreation](http://www.thecreswellchronicle.com/story/2018/06/14/outdoors/oregon-parks-and-recreation-department-hires-first-director-for-office-of-outdoor-recreation/678.html)
+* [David Knight, North Carolina Office of Outdoor Recreation](https://www.linkedin.com/in/david-knight-76212b6b)
 
 ### Moderator:
 
